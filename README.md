@@ -34,24 +34,3 @@ While my formal education equips me with the theoretical underpinnings of comput
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bilalTariq00&theme=transparent" alt="GitHub Streak" /></a>
 
-### 🎯 Projects
-
-## 🚀 Projects
-
-### 1. Project Name 1
-![Project Image](project1-image-url.jpg)
-**Description:** Briefly describe your project, tech stack, and what it accomplishes.
-
-[![View Project](https://img.shields.io/badge/View_Project-007bff?style=for-the-badge&logo=github)](https://your-project1-demo-link.com)
-
-### 2. Project Name 2
-![Project Image](project2-image-url.jpg)
-**Description:** Briefly describe your project, tech stack, and what it accomplishes.
-
-[![View Project](https://img.shields.io/badge/View_Project-007bff?style=for-the-badge&logo=github)](https://your-project2-demo-link.com)
-
-### 3. Project Name 3
-![Project Image](project3-image-url.jpg)
-**Description:** Briefly describe your project, tech stack, and what it accomplishes.
-
-[![View Project](https://img.shields.io/badge/View_Project-007bff?style=for-the-badge&logo=github)](https://your-project3-demo-link.com)
